@@ -1,0 +1,39 @@
+/home/sergey/Рабочий стол/Test_Game/Game/bin/Debug/netcoreapp2.2/Game.deps.json
+/home/sergey/Рабочий стол/Test_Game/Game/bin/Debug/netcoreapp2.2/Game.runtimeconfig.json
+/home/sergey/Рабочий стол/Test_Game/Game/bin/Debug/netcoreapp2.2/Game.runtimeconfig.dev.json
+/home/sergey/Рабочий стол/Test_Game/Game/bin/Debug/netcoreapp2.2/Game.dll
+/home/sergey/Рабочий стол/Test_Game/Game/bin/Debug/netcoreapp2.2/Game.pdb
+/home/sergey/Рабочий стол/Test_Game/Game/obj/Debug/netcoreapp2.2/Game.csprojAssemblyReference.cache
+/home/sergey/Рабочий стол/Test_Game/Game/obj/Debug/netcoreapp2.2/Game.csproj.CoreCompileInputs.cache
+/home/sergey/Рабочий стол/Test_Game/Game/obj/Debug/netcoreapp2.2/Game.AssemblyInfoInputs.cache
+/home/sergey/Рабочий стол/Test_Game/Game/obj/Debug/netcoreapp2.2/Game.AssemblyInfo.cs
+/home/sergey/Рабочий стол/Test_Game/Game/obj/Debug/netcoreapp2.2/Game.dll
+/home/sergey/Рабочий стол/Test_Game/Game/obj/Debug/netcoreapp2.2/Game.pdb
+/home/sergey/Рабочий стол/Test_Game/Game/bin/Debug/netcoreapp2.2/Program.cs
+/home/sergey/Рабочий стол/Test_Game/Game/bin/Debug/netcoreapp2.2/ProgramTest.cs
+/home/sergey/Рабочий стол/Test_GameXXL/Game/bin/Debug/netcoreapp2.2/Program.cs
+/home/sergey/Рабочий стол/Test_GameXXL/Game/bin/Debug/netcoreapp2.2/ProgramTest.cs
+/home/sergey/Рабочий стол/Test_GameXXL/Game/bin/Debug/netcoreapp2.2/Game.deps.json
+/home/sergey/Рабочий стол/Test_GameXXL/Game/bin/Debug/netcoreapp2.2/Game.runtimeconfig.json
+/home/sergey/Рабочий стол/Test_GameXXL/Game/bin/Debug/netcoreapp2.2/Game.runtimeconfig.dev.json
+/home/sergey/Рабочий стол/Test_GameXXL/Game/bin/Debug/netcoreapp2.2/Game.dll
+/home/sergey/Рабочий стол/Test_GameXXL/Game/bin/Debug/netcoreapp2.2/Game.pdb
+/home/sergey/Рабочий стол/Test_GameXXL/Game/obj/Debug/netcoreapp2.2/Game.csprojAssemblyReference.cache
+/home/sergey/Рабочий стол/Test_GameXXL/Game/obj/Debug/netcoreapp2.2/Game.csproj.CoreCompileInputs.cache
+/home/sergey/Рабочий стол/Test_GameXXL/Game/obj/Debug/netcoreapp2.2/Game.AssemblyInfoInputs.cache
+/home/sergey/Рабочий стол/Test_GameXXL/Game/obj/Debug/netcoreapp2.2/Game.AssemblyInfo.cs
+/home/sergey/Рабочий стол/Test_GameXXL/Game/obj/Debug/netcoreapp2.2/Game.dll
+/home/sergey/Рабочий стол/Test_GameXXL/Game/obj/Debug/netcoreapp2.2/Game.pdb
+C:\Users\Sergey\Desktop\GIT\Test_Game\Test_Game\Game\bin\Debug\netcoreapp2.2\ProgramTest.cs
+C:\Users\Sergey\Desktop\GIT\Test_Game\Test_Game\Game\bin\Debug\netcoreapp2.2\Program.cs
+C:\Users\Sergey\Desktop\GIT\Test_Game\Test_Game\Game\bin\Debug\netcoreapp2.2\Game.deps.json
+C:\Users\Sergey\Desktop\GIT\Test_Game\Test_Game\Game\bin\Debug\netcoreapp2.2\Game.runtimeconfig.json
+C:\Users\Sergey\Desktop\GIT\Test_Game\Test_Game\Game\bin\Debug\netcoreapp2.2\Game.runtimeconfig.dev.json
+C:\Users\Sergey\Desktop\GIT\Test_Game\Test_Game\Game\bin\Debug\netcoreapp2.2\Game.dll
+C:\Users\Sergey\Desktop\GIT\Test_Game\Test_Game\Game\bin\Debug\netcoreapp2.2\Game.pdb
+C:\Users\Sergey\Desktop\GIT\Test_Game\Test_Game\Game\obj\Debug\netcoreapp2.2\Game.csprojAssemblyReference.cache
+C:\Users\Sergey\Desktop\GIT\Test_Game\Test_Game\Game\obj\Debug\netcoreapp2.2\Game.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\GIT\Test_Game\Test_Game\Game\obj\Debug\netcoreapp2.2\Game.AssemblyInfoInputs.cache
+C:\Users\Sergey\Desktop\GIT\Test_Game\Test_Game\Game\obj\Debug\netcoreapp2.2\Game.AssemblyInfo.cs
+C:\Users\Sergey\Desktop\GIT\Test_Game\Test_Game\Game\obj\Debug\netcoreapp2.2\Game.dll
+C:\Users\Sergey\Desktop\GIT\Test_Game\Test_Game\Game\obj\Debug\netcoreapp2.2\Game.pdb
